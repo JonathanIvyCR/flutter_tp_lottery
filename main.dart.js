@@ -43752,7 +43752,7 @@ S:function(a,b){return new S.oP(new Y.op(null),X.a0x(null,C.oz),!1,null)}}
 Y.op.prototype={
 aS:function(){return new Y.Bm(C.m)}}
 Y.Bm.prototype={
-S:function(a,b){var s=null,r=H.b([new T.ks(new K.cj(0,-0.5),s,s,L.a9O("Tiempos",A.qx(s,s,C.j,s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s)),s)],t.p)
+S:function(a,b){var s=null,r=H.b([new T.ks(new K.cj(0,-0.5),s,s,L.a9O("Tiempos",A.qx(s,s,C.j,s,s,s,s,s,s,s,s,40,s,s,s,s,!0,s,s,s,s,s,s)),s)],t.p)
 return new M.pW(T.Oo(T.ZF(T.yZ(C.ib,r,C.i3),s,new B.za(s)),100,700),s)}}
 B.za.prototype={
 aQ:function(a,b){var s,r
